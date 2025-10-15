@@ -1,78 +1,110 @@
-### 🌟 Hi, I'm Krrish Mittal!  
-🎓 *B.E. Computer Science Engineering | Chandigarh University (2026)*  
-💻 *Full Stack Developer | Problem Solver | Tech Enthusiast*
+<h1 align="center">Hi 👋, I'm Krrish Mittal</h1>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krrishmittal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🚀 About Me  
-I’m a passionate Computer Science undergraduate with hands-on experience in **React**, **Node.js**, and **MongoDB**.  
-I love building **scalable, user-centric web applications**, solving algorithmic problems, and learning modern technologies to improve performance and user experience.
+## 🌟 About Me  
 
-- 🌱 Currently improving my skills in **System Design** & **DSA**
-- 💬 Ask me about **MERN Stack**, **API Development**, and **DSA**
-- ⚡ Fun fact: I enjoy solving coding problems — 600+ problems solved across GFG & LeetCode!
+🎓 I'm a **Computer Science Engineering undergraduate** at *Chandigarh University (2026)* with a current **CGPA of 8.08**.  
+💻 Passionate about **building full-stack web applications** using **React.js, Node.js, Express.js, and MongoDB**.  
+🚀 I aim to develop **scalable, user-centric solutions** and contribute to real-world software projects.  
+🧠 I love solving algorithmic problems — **600+ coding questions** solved on **GeeksforGeeks** and **LeetCode**.  
+🌱 Currently focusing on **MERN Stack Development** and **Data Structures & Algorithms** to strengthen my problem-solving and development skills.  
+📫 Reach me at **mittalkrrish0811@gmail.com**
 
----
-
-### 🧠 Tech Stack  
-
-**Languages:**  
-`C++` · `Java` · `JavaScript` · `SQL`
-
-**Frontend:**  
-`React.js` · `HTML5` · `CSS3` · `Tailwind CSS`
-
-**Backend:**  
-`Node.js` · `Express.js` · `RESTful APIs`
-
-**Database:**  
-`MongoDB` · `MySQL`
-
-**Core CS:**  
-`OOPs` · `Operating Systems` · `DBMS` · `Computer Networks` · `DSA`
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer illustration" width="400"/>
+</p>
 
 ---
 
-### 💼 Featured Projects  
+## 💻 Tech Stack  
 
-#### 🧩 [InternHub](https://internship-front-9ydy.onrender.com/)  
-> A full-stack internship portal for students to register, apply, and manage internship opportunities.
+### 📝 Programming Languages  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+</p>
 
-- Built with **React**, **Node.js**, **Express**, and **MongoDB**  
-- Secure authentication using **JWT & bcrypt.js**  
-- Scalable APIs for CRUD operations  
-- Improved UI/UX using **Tailwind CSS**
+### 🌐 Frontend  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+</p>
 
-#### 🎮 [Gamentic](https://fabulous-taffy-1f1da8.netlify.app/)  
-> A responsive gaming hub showcasing live streams, trending games, and real-time news updates.
+### ⚙️ Backend  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+</p>
 
-- Created with **HTML**, **CSS (Flexbox & Grid)**  
-- Integrated SVG icons & Google Fonts  
-- Enhanced navigation and hover transitions for smooth UX  
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+</p>
+
+### 🔧 Tools & Technologies  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" />
+</p>
 
 ---
 
-### 🏆 Achievements  
+## 💼 Featured Projects  
 
-- 🥈 **2nd place** — *CodeQuest 1.0, Chandigarh University*  
-- 💡 Solved **600+ coding problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/mittalkrrnw1x/) & [LeetCode](https://leetcode.com/u/mittalkrrnw1x/)  
+### 🧩 [InternHub](https://internship-front-9ydy.onrender.com/)  
+A full-stack internship portal enabling registration, login, and application management for students.  
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS  
+- Built secure authentication using **JWT** & **bcrypt.js**  
+- Developed scalable **RESTful APIs** for CRUD operations  
+- Integrated **MongoDB** for dynamic and efficient data management  
+
+### 🎮 [Gamentic](https://fabulous-taffy-1f1da8.netlify.app/)  
+A responsive gaming hub that showcases live streams, trending games, and gaming news.  
+**Tech Stack:** HTML, CSS (Flexbox & Grid)  
+- Created a clean, interactive UI using **Flexbox & Grid Layout**  
+- Added **hover animations** and **SVG icons** for better engagement  
+- Fully responsive across devices  
+
+---
+
+## 🏆 Achievements  
+
+- 🥈 **2nd Place** — CodeQuest 1.0 (Chandigarh University)  
+- 💡 Solved **600+ coding problems** on  
+  [GeeksforGeeks](https://www.geeksforgeeks.org/user/mittalkrrnw1x/) and [LeetCode](https://leetcode.com/u/mittalkrrnw1x/)  
 - 📜 Certifications:  
-  - *Introduction to Databases* – Coursera  
-  - *Innovation Through Design: Think, Make, Break, Repeat* – Coursera  
+  - *Introduction to Databases* — Coursera (Feb 2024)  
+  - *Innovation Through Design: Think, Make, Break, Repeat* — Coursera (Sept 2023)
 
 ---
 
-### 🌐 Connect With Me  
+## 📊 GitHub Stats  
 
-📧 **Email:** [mittalkrrish0811@gmail.com](mailto:mittalkrrish0811@gmail.com)  
-💼 **LinkedIn:** [Krrish Mittal](https://www.linkedin.com/in/krrish-mittal-b66274248/)  
-💻 **GitHub:** [krrishmittal](https://github.com/krrishmittal)  
-💬 **GeeksforGeeks:** [mittalkrrnw1x](https://www.geeksforgeeks.org/user/mittalkrrnw1x/)  
-🏆 **LeetCode:** [mittalkrrnw1x](https://leetcode.com/u/mittalkrrnw1x/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krrishmittal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krrishmittal&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrishmittal&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### 📊 GitHub Stats  
-
-![Krrish’s GitHub stats](https://github-readme-stats.vercel.app/api?username=krrishmittal&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krrishmittal&layout=compact&theme=tokyonight)
+## 🌐 Connect With Me
