@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Krrish Mittal</h1>
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krrishmittal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 40px;">
+  
+  <div style="max-width: 500px; line-height: 1.6;">
+    <p>
+      🎓 I'm a <strong>Computer Science Engineering undergraduate</strong> at <em>Chandigarh University (2026)</em> with a current <strong>CGPA of 8.08</strong>.<br>
+      💻 Passionate about <strong>building full-stack web applications</strong> using <strong>React.js, Node.js, Express.js, and MongoDB</strong>.<br>
+      🚀 I aim to develop <strong>scalable, user-centric solutions</strong> and contribute to real-world software projects.<br>
+      🧠 I love solving algorithmic problems — <strong>600+ coding questions</strong> solved on <strong>GeeksforGeeks</strong> and <strong>LeetCode</strong>.<br>
+      🌱 Currently focusing on <strong>MERN Stack Development</strong> and <strong>Data Structures & Algorithms</strong> to strengthen my problem-solving and development skills.<br>
+      📫 Reach me at <strong>mittalkrrish0811@gmail.com</strong>
+    </p>
+  </div>
 
----
+  <div>
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer illustration" width="400"/>
+  </div>
+  
+</div>
 
-## 🌟 About Me  
-
-🎓 I'm a **Computer Science Engineering undergraduate** at *Chandigarh University (2026)* with a current **CGPA of 8.08**.  
-💻 Passionate about **building full-stack web applications** using **React.js, Node.js, Express.js, and MongoDB**.  
-🚀 I aim to develop **scalable, user-centric solutions** and contribute to real-world software projects.  
-🧠 I love solving algorithmic problems — **600+ coding questions** solved on **GeeksforGeeks** and **LeetCode**.  
-🌱 Currently focusing on **MERN Stack Development** and **Data Structures & Algorithms** to strengthen my problem-solving and development skills.  
-📫 Reach me at **mittalkrrish0811@gmail.com**
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer illustration" width="400"/>
-</p>
 
 ---
 
