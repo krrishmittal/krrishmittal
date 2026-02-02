@@ -80,33 +80,6 @@ A responsive gaming hub that showcases live streams, trending games, and gaming 
 
 ---
 
-## 🏆 Achievements  
-
-- 🥈 **2nd Place** — CodeQuest 1.0 (Chandigarh University)  
-- 💡 Solved **600+ coding problems** on  
-  [GeeksforGeeks](https://www.geeksforgeeks.org/user/mittalkrrnw1x/) and [LeetCode](https://leetcode.com/u/mittalkrrnw1x/)  
-- 📜 Certifications:  
-  - *Introduction to Databases* — Coursera (Feb 2024)  
-  - *Innovation Through Design: Think, Make, Break, Repeat* — Coursera (Sept 2023)
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krrishmittal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krrishmittal&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrishmittal&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="left">
