@@ -16,9 +16,6 @@
 🌱 Currently focusing on **MERN Stack Development** and **Data Structures & Algorithms** to strengthen my problem-solving and development skills.  
 📫 Reach me at **mittalkrrish0811@gmail.com**
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer illustration" width="400"/>
-</p>
 
 ---
 
